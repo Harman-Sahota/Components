@@ -4,4 +4,4 @@
 
 ### Component-1 Neon Button
 
-<img src = "documentation/neon_no_hover.PNG">
+<img src = "documentation/neon_no_hover.PNG" width = 50%>
